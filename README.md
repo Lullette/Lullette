@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lullette
 - 👀 I’m interested in sustainable code and UX design
-- 🌱 I’m currently learning Python, Golan, Java, PWA 
+- 🌱 I’m currently learning Python, Golang, Java, PWA 
 - 💞️ I’m looking to collaborate on sustainable code
 - 📫 How to reach me in/delosangeleslu 
 
