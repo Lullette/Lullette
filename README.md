@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lullette
+- 👋 Hi, I’m Lucia
 - 👀 I’m interested in sustainable code and UX design
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate social impact projects
